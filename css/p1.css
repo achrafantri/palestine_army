@@ -12,6 +12,7 @@ padding-right: 8%;
 box-sizing: border-box;
 }
 .navbar{height: 12%;
+Position :sticky;
 display: flex;
 align-items: center;}
 .logo{
